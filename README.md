@@ -30,3 +30,10 @@ Spring Data JPA (persistance)
 PostgreSQL Driver (ou un autre SGBD)
 
 Lombok (réduction du code boilerplate)
+
+Schématisation:
+
+Voici le MCD de mon projet:
+
+![The_Bank_Potable](https://github.com/user-attachments/assets/522b057e-c7d0-48fa-8164-623e0067f374)
+
